@@ -1,0 +1,23 @@
+{
+  "name": "os2-vjezba-node",
+  "version": "1.0.0",
+  "description": "node js testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torlakivan2008-source/os2-vjezba-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "testing"
+  ],
+  "author": "Ivan Torlak Reinne Macan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torlakivan2008-source/os2-vjezba-node/issues"
+  },
+  "homepage": "https://github.com/torlakivan2008-source/os2-vjezba-node#readme"
+}
